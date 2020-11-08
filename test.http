@@ -1,0 +1,2 @@
+GET http://official-joke-api.appspot.com/jokes/programming/random
+Accept: application/json
